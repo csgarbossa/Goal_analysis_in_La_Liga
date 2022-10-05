@@ -1,0 +1,2 @@
+# Goal_analysis_in_La_Liga
+Cross-validation classification
