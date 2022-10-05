@@ -1,8 +1,6 @@
-rm(list = ls())
-load("C:/Users/Lenovo/Desktop/StatDataCamp/fd_4teams.RData")
-dat <- shoot_dati
-rm(shoot_dati)
-rm(dataser_tiri)
+dat <- shoot_dat
+rm(shoot_dat)
+rm(dataset_shoot)
 gc()
 
 library(dplyr)
